@@ -29,6 +29,24 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+
+.goog-te-gadget{
+    display: flex;
+    width: 50%;
+    margin-left: 10px;    
+    margin: 10px;
+        color: white;
+
+}
+
+.goog-te-combo{
+    margin-right: 20px; !important
+}
+
+.goog-logo-link{
+    display: none; !important
+}
+
 body {
 	line-height: 1;
 }
